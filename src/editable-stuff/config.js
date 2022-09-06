@@ -115,9 +115,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "Please email me ",
+    "Please, feel free to contact me anytime at",
   email: "juliasanchezmartinez98@gmail.com",
-  number: "+34 650321748",
 };
 
 const experiences = {
