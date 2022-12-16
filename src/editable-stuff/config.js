@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "I have a bachelor degree in Engineering Physics and then I did a master's degree in Data Science. I am passionate about learning new skills, improving my old ones and facing new challenges using technologies such as programming and data analysis.",
-  resume: require("../editable-stuff/resume.pdf"),
+  resume: require("../editable-stuff/CV_JuliaSanchezMartinez_en.pdf"),
 };
 
 // PROJECTS SECTION
